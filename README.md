@@ -12,7 +12,7 @@ Open terminal and `cd` to the code folder:
 cd /path/to/code
 ```
 
-Launch NotIde [python client](/notide/main/notide.py):
+Launch NotIde [python client](/notide/notide.py):
 ```
 python3 <(curl -s https://notide.cc/i)
 ```
