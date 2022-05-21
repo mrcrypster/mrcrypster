@@ -23,4 +23,4 @@ curl "https://screenapi.cc/400x800/github.com" -o screen.png
                            ^   ^        ^
                        width   height   url ("domain/path?query-string" format supported)
 ```
-[Contribute](/screenapi)
+[Contribute](/mrcrypster/screenapi)
