@@ -10,6 +10,15 @@ print_r( mysqly::fetch("SELECT NOW()") );
 
 [Contribute](https://github.com/mrcrypster/mysqly)
 
+## [Clickhousy](https://github.com/mrcrypster/clickhousy) - low memory footprint PHP client for Clickhouse
+
+```php
+require 'clickhousy/clickhousy.php';
+$data = clickhousy::rows('SELECT * FROM table LIMIT 5');
+```
+
+[Documentation](https://github.com/mrcrypster/clickhousy)
+
 ## [NotIde](https://notide.cc/) - edit local code in the cloud
 
 Launch NotIDE [python client](https://github.com/mrcrypster/notide/blob/main/notide.py) locally in the code folder (`cd /path/to/code`) to edit:
