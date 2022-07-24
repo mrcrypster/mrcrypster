@@ -1,3 +1,6 @@
+## [DataDenys](https://medium.com/datadenys)
+Blog on building data-intensive apps on top of modern databases and architectures.
+
 ## [Mysqly](https://mysqly.com/) - Mysql data framework for PHP
 
 ```php
