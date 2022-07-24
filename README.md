@@ -1,4 +1,4 @@
-## [DataDenys](https://medium.com/datadenys)
+## [DataDenys](https://medium.com/datadenys) - how to build big data apps
 Blog on building data-intensive apps on top of modern databases and architectures.
 
 ## [Mysqly](https://mysqly.com/) - Mysql data framework for PHP
