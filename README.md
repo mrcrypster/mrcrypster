@@ -1,5 +1,12 @@
 ## [DataDenys](https://medium.com/datadenys) - how to build data-intensive apps
-Blog on building data-intensive apps on top of modern databases and architectures.
+Blog on building data-intensive apps on top of modern databases and architectures. A lot of clear illustrations and no "professor" language.
+
+### Fresh articles
+- [Using Vector to feed Nginx logs to Clickhouse in real time](https://medium.com/datadenys/using-vector-to-feed-nginx-logs-to-clickhouse-in-real-time-197745d9e88b)
+- [Scale data flow on top of Amazon SNS](https://medium.com/datadenys/scale-data-flow-on-top-of-amazon-sns-47a5ecf6af91)
+- [Improving Clickhouse query performance by tuning key order](https://medium.com/datadenys/improving-clickhouse-query-performance-tuning-key-order-f406db7cfeb9)
+- [Clickhouse full text search based on Manticore](https://medium.com/datadenys/clickhouse-full-text-search-based-on-manticore-e0fb8de080a6)
+- [Amazon Redshift Serverless — quick start](https://medium.com/datadenys/amazon-redshift-serverless-quick-start-8f3cbc9b4a11)
 
 ## [Mysqly](https://mysqly.com/) - Mysql data framework for PHP
 
