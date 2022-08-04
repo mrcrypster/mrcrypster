@@ -9,7 +9,7 @@ Blog on building data-intensive apps on top of modern databases and architecture
 - [Clickhouse full text search based on Manticore](https://medium.com/datadenys/clickhouse-full-text-search-based-on-manticore-e0fb8de080a6)
 - [Amazon Redshift Serverless — quick start](https://medium.com/datadenys/amazon-redshift-serverless-quick-start-8f3cbc9b4a11)
 
-## [Onelinerhub](https://github.com/Onelinerhub) - short code solutions
+## [Onelinerhub](https://github.com/Onelinerhub) - short code solutions hub
 This is a big open collection of modern code solutions for software engineers.
 [Contribute](https://github.com/Onelinerhub/onelinerhub) or [join org](https://github.com/Onelinerhub).
 
