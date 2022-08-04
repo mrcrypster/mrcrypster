@@ -2,6 +2,7 @@
 Blog on building data-intensive apps on top of modern databases and architectures. A lot of clear illustrations and no "professor" language.
 
 ### Fresh articles
+- [Mysql dictionaries in Clickhouse](https://medium.com/datadenys/using-mysql-table-as-dictionary-in-clickhouse-to-enrich-data-96d59fc3d556)
 - [Using Vector to feed Nginx logs to Clickhouse in real time](https://medium.com/datadenys/using-vector-to-feed-nginx-logs-to-clickhouse-in-real-time-197745d9e88b)
 - [Scale data flow on top of Amazon SNS](https://medium.com/datadenys/scale-data-flow-on-top-of-amazon-sns-47a5ecf6af91)
 - [Improving Clickhouse query performance by tuning key order](https://medium.com/datadenys/improving-clickhouse-query-performance-tuning-key-order-f406db7cfeb9)
