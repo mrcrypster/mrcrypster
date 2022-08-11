@@ -50,3 +50,6 @@ curl "https://screenapi.cc/400x800/github.com" -o screen.png
                        width   height   url ("domain/path?query-string" format supported)
 ```
 [Contribute](https://github.com/mrcrypster/screenapi)
+
+## [HTTP EchoOf.me](https://echoof.me/) - plain HTTP echo service
+Service echos request and shows some info about request including IP address, headers and data.
