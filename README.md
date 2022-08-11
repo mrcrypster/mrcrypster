@@ -52,4 +52,4 @@ curl "https://screenapi.cc/400x800/github.com" -o screen.png
 [Contribute](https://github.com/mrcrypster/screenapi)
 
 ## [echoOf.me](https://echoof.me/) - plain HTTP echo service
-Service echos request and shows some info about request including IP address, headers and data.
+Service echoes request and shows some info about request including IP address, headers and data.
