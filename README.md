@@ -1,7 +1,6 @@
 ## [DataDenys](https://medium.com/datadenys) - how to build data-intensive apps
-Blog on building data-intensive apps on top of modern databases and architectures. A lot of clear illustrations and no "professor" language.
+I'm writing on building data-intensive apps on top of modern databases and architectures. A lot of clear illustrations and no "professor" language.
 
-### Fresh articles
 - [Processing large responses from Clickhouse using HTTP streaming](https://medium.com/datadenys/processing-large-responses-from-clickhouse-using-http-streaming-php-example-63639cf7614)
 - [Matrices and vectors math for AI with Python examples](https://medium.com/datadenys/matrices-and-vectors-basic-math-for-ai-with-python-examples-ed06d7da01ac)
 - [Clickhouse long queries progress tracking](https://medium.com/datadenys/clickhouse-long-queries-progress-tracking-65fc34ac050a)
