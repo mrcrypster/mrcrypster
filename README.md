@@ -33,7 +33,7 @@ $data = clickhousy::rows('SELECT * FROM table LIMIT 5');
 [Documentation](https://github.com/mrcrypster/clickhousy)
 
 
-## [PHPy](https://github.com/mrcrypster/phpy) - php markup framework for rapid prototyping
+## [PHPy 2](https://github.com/mrcrypster/phpy) - php markup framework for rapid prototyping
 
 ```php
 echo phpy(['html' => ['a.home:/test' => 'Link']]); # -> <html><a class="home" href="/test">Link</a></html>
