@@ -38,7 +38,7 @@ $data = clickhousy::rows('SELECT * FROM table LIMIT 5');
 ```php
 echo phpy(['html' => ['a.home:/test' => 'Link']]); # -> <html><a class="home" href="/test">Link</a></html>
 ```
-[Sources & tests](https://github.com/mrcrypster/phpy-src) is available as separate library.
+[Sources & tests](https://github.com/mrcrypster/phpy-src) is available as separate repository.
 
 ## [NotIde](https://notide.cc/) - edit local code in the cloud
 
