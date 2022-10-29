@@ -1,6 +1,7 @@
 ## [DataDenys](https://medium.com/datadenys) - how to build data-intensive apps
 I'm writing on building data-intensive apps on top of modern databases and architectures. A lot of clear illustrations and no "professor" language.
 
+- [Using projections to speedup queries in Clickhouse](https://medium.com/datadenys/using-projections-to-speedup-queries-in-clickhouse-cd58e393b1cd)
 - [Scaling Clickhouse using Amazon S3 as a storage](https://medium.com/datadenys/scaling-clickhouse-using-amazon-s3-as-a-storage-94a9b9f2e6c7)
 - [Processing large responses from Clickhouse using HTTP streaming](https://medium.com/datadenys/processing-large-responses-from-clickhouse-using-http-streaming-php-example-63639cf7614)
 - [Clickhouse long queries progress tracking](https://medium.com/datadenys/clickhouse-long-queries-progress-tracking-65fc34ac050a)
