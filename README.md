@@ -1,15 +1,6 @@
 ## [DataDenys](https://medium.com/datadenys) - how to build data-intensive apps
 I'm writing on building data-intensive apps on top of modern databases and architectures. A lot of clear illustrations and no "professor" language.
 
-- [Using projections to speedup queries in Clickhouse](https://medium.com/datadenys/using-projections-to-speedup-queries-in-clickhouse-cd58e393b1cd)
-- [Scaling Clickhouse using Amazon S3 as a storage](https://medium.com/datadenys/scaling-clickhouse-using-amazon-s3-as-a-storage-94a9b9f2e6c7)
-- [Processing large responses from Clickhouse using HTTP streaming](https://medium.com/datadenys/processing-large-responses-from-clickhouse-using-http-streaming-php-example-63639cf7614)
-- [Clickhouse long queries progress tracking](https://medium.com/datadenys/clickhouse-long-queries-progress-tracking-65fc34ac050a)
-- [Optimizing timeseries data in Clickhouse](https://medium.com/datadenys/optimizing-timeseries-data-in-clickhouse-c6518a9d6da0)
-- [Mysql dictionaries in Clickhouse](https://medium.com/datadenys/using-mysql-table-as-dictionary-in-clickhouse-to-enrich-data-96d59fc3d556)
-- [Using Vector to feed Nginx logs to Clickhouse in real time](https://medium.com/datadenys/using-vector-to-feed-nginx-logs-to-clickhouse-in-real-time-197745d9e88b)
-- [Improving Clickhouse query performance by tuning key order](https://medium.com/datadenys/improving-clickhouse-query-performance-tuning-key-order-f406db7cfeb9)
-
 ## [Onelinerhub](https://onelinerhub.com/) - short code solutions hub
 This is a big open collection of modern code solutions for software engineers.
 [Contribute](https://github.com/Onelinerhub/onelinerhub) or [join org](https://github.com/Onelinerhub).
