@@ -34,7 +34,7 @@ echo phpy(['html' => ['a.home:/test' => 'Link']]); # -> <html><a class="home" hr
 
 ## [NotIde](https://notide.cc/) - edit local code in the cloud
 
-Launch NotIDE [python client](https://github.com/mrcrypster/notide/blob/main/notide.py) locally in the code folder (`cd /path/to/code`) to edit:
+Launch NotIDE [python client](https://github.com/mrcrypster/notide/blob/main/local/client2.py) locally in the code folder (`cd /path/to/code`) to edit:
 ```
 python3 <(curl -s https://notide.cc/i)
 ```
